@@ -1,0 +1,15 @@
+{
+    "enabled_client_installs_percent": 0.0, 
+    "toggles": {
+        "new_client_patcher": 0.0, 
+        "batch_16MB": 12.5, 
+        "new_game_patcher": 50.0, 
+        "batch_4MB": 37.5, 
+        "batch_8MB": 25.0
+    }, 
+    "timestamp": "2019-02-07T22:42:30.924000", 
+    "client_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/F8487EDD0EE47547.manifest", 
+    "version": 62, 
+    "game_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/DF5FCDF6EE5BCADE.manifest", 
+    "enabled_game_installs_percent": 50.0
+}

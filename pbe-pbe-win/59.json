@@ -1,0 +1,13 @@
+{
+    "enabled_client_installs_percent": 0.0, 
+    "toggles": {
+        "new_client_patcher": 0.0, 
+        "new_game_patcher": 50.0, 
+        "quad_connection": 25.0
+    }, 
+    "timestamp": "2019-02-01T22:35:55.022000", 
+    "client_patch_url": "https://lol.dyn.riotcdn.net/channels/public/releases/8E5C5C43864E05C2.manifest", 
+    "version": 59, 
+    "game_patch_url": "https://lol.dyn.riotcdn.net/channels/public/releases/73AF1662D7AC1F35.manifest", 
+    "enabled_game_installs_percent": 50.0
+}

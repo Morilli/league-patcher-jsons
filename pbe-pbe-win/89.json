@@ -1,0 +1,13 @@
+{
+    "enabled_client_installs_percent": 0.0, 
+    "toggles": {
+        "new_client_patcher": 0.0, 
+        "new_game_patcher": 50.0, 
+        "single_range": 50.0
+    }, 
+    "timestamp": "2019-03-14T23:34:55.832000", 
+    "client_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/C6D3514485971DF3.manifest", 
+    "version": 89, 
+    "game_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/2DAC31469A2AF6BB.manifest", 
+    "enabled_game_installs_percent": 50.0
+}
