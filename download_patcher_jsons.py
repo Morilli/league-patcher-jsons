@@ -10,7 +10,9 @@ regions = ["br", "eune", "euw", "jp", "kr", "la1", "la2", "na", "oc1", "ru", "tr
 urls = [(f"./live-{r}-win", f"https://lol.dyn.riotcdn.net/channels/public/live-{r}-win.json") for r in regions]
 urls += [(f"./maclive-{r}-mac", f"https://lol.dyn.riotcdn.net/channels/public/maclive-{r}-mac.json") for r in regions]
 urls.extend([("./pbe-pbe-win", "https://lol.dyn.riotcdn.net/channels/public/pbe-pbe-win.json"),
-             ("./macpbe-pbe-mac", "https://lol.dyn.riotcdn.net/channels/public/macpbe-pbe-mac.json")])
+             ("./pbe-pbe_test-win", "https://lol.dyn.riotcdn.net/channels/public/pbe-pbe_test-win.json"),
+             ("./macpbe-pbe-mac", "https://lol.dyn.riotcdn.net/channels/public/macpbe-pbe-mac.json"),
+             ("./macpbe-pbe_test-mac", "https://lol.dyn.riotcdn.net/channels/public/macpbe-pbe_test-mac.json")])
 
 def download_jsons(entry):
     path, url = entry
