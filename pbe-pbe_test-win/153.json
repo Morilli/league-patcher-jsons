@@ -3,8 +3,8 @@
         "new_client_patcher": 100.0, 
         "new_game_patcher": 100.0
     }, 
-    "timestamp": "2019-06-27T18:52:14.347000", 
-    "version": 173, 
+    "timestamp": "2019-06-27T18:24:34.398000", 
+    "version": 153, 
     "client_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/376092A6AC9CF565.manifest", 
     "game_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6082F2999803D8CD.manifest"
 }
