@@ -1,0 +1,11 @@
+{
+    "toggles": {
+        "new_client_patcher": 100.0, 
+        "new_game_patcher": 100.0
+    }, 
+    "timestamp": "2019-07-01T21:02:56.131000", 
+    "client_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/79B6992CDEE40282.manifest", 
+    "version": 39, 
+    "game_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/2D64148350E9A157.manifest", 
+    "client_app_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/86C727946CDE97E9.manifest"
+}
