@@ -1,3 +1,4 @@
-Version 1.1.0: https://ks-foundation.dyn.riotcdn.net/channels/public/releases/4640A33AEFC4470B.manifest
-Version 1.1.0?: https://ks-foundation.dyn.riotcdn.net/channels/public/releases/547F7BF1C789ACA8.manifest
-Version 1.2.0: https://ks-foundation.dyn.riotcdn.net/channels/public/releases/C7B9A0EE820D3244.manifest
+Version 1.1.0.2803633: https://ks-foundation.dyn.riotcdn.net/channels/public/releases/4640A33AEFC4470B.manifest
+Version 1.1.0.2816326: https://ks-foundation.dyn.riotcdn.net/channels/public/releases/547F7BF1C789ACA8.manifest
+Version 1.2.0.2819585: https://ks-foundation.dyn.riotcdn.net/channels/public/releases/C7B9A0EE820D3244.manifest
+Version 1.2.0.2826251: https://ks-foundation.dyn.riotcdn.net/channels/public/releases/B9AEEDBC32E1156E.manifest
