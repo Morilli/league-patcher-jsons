@@ -21,3 +21,4 @@ Version 1.6.0.2886533: https://ks-foundation.dyn.riotcdn.net/channels/public/rel
 Version 1.5.0.2889856: https://ks-foundation.dyn.riotcdn.net/channels/public/releases/A4D2234EF2C7CABA.manifest
 Version 1.6.0.2891864: https://ks-foundation.dyn.riotcdn.net/channels/public/releases/098E97388181CE9F.manifest
 Version 1.6.0.2898104: https://ks-foundation.dyn.riotcdn.net/channels/public/releases/419454E54CB2955F.manifest
+Version 1.7.0.2904080: https://ks-foundation.dyn.riotcdn.net/channels/public/releases/C1CEE1BFA8098D54.manifest
