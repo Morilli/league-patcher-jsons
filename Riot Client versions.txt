@@ -27,3 +27,4 @@ Version 1.7.0.2911844: https://ks-foundation.dyn.riotcdn.net/channels/public/rel
 Version 1.7.0.2913977: https://ks-foundation.dyn.riotcdn.net/channels/public/releases/A83621EACC11C9D0.manifest
 Version 1.7.0.2915493: https://ks-foundation.dyn.riotcdn.net/channels/public/releases/1D9340F288D7232B.manifest
 Version 1.7.0.2915917: https://ks-foundation.dyn.riotcdn.net/channels/public/releases/8441BCB28C134091.manifest
+Version 1.7.0.2918802: https://ks-foundation.dyn.riotcdn.net/channels/public/releases/10F92F86B74D406A.manifest
