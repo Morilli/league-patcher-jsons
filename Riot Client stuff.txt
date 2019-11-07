@@ -1,0 +1,7 @@
+https://ks-foundation.dyn.riotcdn.net/channels/public/releases/4744DD6DE401A26B.manifest and up have update.level 26
+https://ks-foundation.dyn.riotcdn.net/channels/public/releases/C1CEE1BFA8098D54.manifest has update.level 21
+
+not sure what's up with the "secure" urls, they seem to be the same version as the non-secure ones, but have a different manifest id.
+and their current version is lower than the highest non-secure one. idk
+
+update.level: 59, Version: 1.9.0.2947676, Url: https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/86AAC858BA578F92.manifest
