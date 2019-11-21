@@ -7,3 +7,4 @@ and their current version is lower than the highest non-secure one. idk
 
 update.level: 59, Version: 1.9.0.2947676, Url: https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/86AAC858BA578F92.manifest
 update.level: 61, Version: 1.10.0.2974887, Url: https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/280B1F29BEF4774D.manifest
+update.level: 61, Version: 1.10.0.2986473, Url: https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/66AD2E6BB9D3FAA7.manifest
