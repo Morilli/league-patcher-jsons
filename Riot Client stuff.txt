@@ -1,10 +1,24 @@
-https://ks-foundation.dyn.riotcdn.net/channels/public/releases/4744DD6DE401A26B.manifest and up have update.level 26
+KeystoneFoundationBeta:
+
 https://ks-foundation.dyn.riotcdn.net/channels/public/releases/C1CEE1BFA8098D54.manifest has update.level 21
-https://ks-foundation.dyn.riotcdn.net/channels/public/releases/F7A7D3BF125A2AE2.manifest has update.level 28?
+https://ks-foundation.dyn.riotcdn.net/channels/public/releases/4744DD6DE401A26B.manifest has update.level 26
+https://ks-foundation.dyn.riotcdn.net/channels/public/releases/1D287BD14F25D1E3.manifest has update.level 26
+https://ks-foundation.dyn.riotcdn.net/channels/public/releases/DEF0F50325D61333.manifest has update.level 26
+https://ks-foundation.dyn.riotcdn.net/channels/public/releases/3B2C360BAA2BF1B3.manifest has update.level 26
+https://ks-foundation.dyn.riotcdn.net/channels/public/releases/18E74E2F13521D58.manifest has update.level 26
+https://ks-foundation.dyn.riotcdn.net/channels/public/releases/25E7AD23E95B15C4.manifest has update.level 26
+https://ks-foundation.dyn.riotcdn.net/channels/public/releases/F7A7D3BF125A2AE2.manifest has update.level 28
+https://ks-foundation.dyn.riotcdn.net/channels/public/releases/6CD73DF88BA28093.manifest has update.level 28
+https://ks-foundation.dyn.riotcdn.net/channels/public/releases/E2DA47560C99133A.manifest has update.level 29
+https://ks-foundation.dyn.riotcdn.net/channels/public/releases/37AE716C4C850D66.manifest has update.level 29
 
-not sure what's up with the "secure" urls, they seem to be the same version as the non-secure ones, but have a different manifest id.
-and their current version is lower than the highest non-secure one. idk
 
-update.level: 59, Version: 1.9.0.2947676, Url: https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/86AAC858BA578F92.manifest
-update.level: 61, Version: 1.10.0.2974887, Url: https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/280B1F29BEF4774D.manifest
-update.level: 61, Version: 1.10.0.2986473, Url: https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/66AD2E6BB9D3FAA7.manifest
+KeystoneFoundationLive:
+
+https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/86AAC858BA578F92.manifest has update.level 59
+https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/280B1F29BEF4774D.manifest has update.level 61
+https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/66AD2E6BB9D3FAA7.manifest has update.level 61
+
+
+note: I don't really know whether this self_update.level value even matters for anything, but I thought better save everything in case it becomes relevant later
+(this value is saved in the ClientConfiguration.json file in "AppData\Local\Riot Games")
