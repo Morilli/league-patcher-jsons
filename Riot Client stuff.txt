@@ -11,6 +11,7 @@ https://ks-foundation.dyn.riotcdn.net/channels/public/releases/F7A7D3BF125A2AE2.
 https://ks-foundation.dyn.riotcdn.net/channels/public/releases/6CD73DF88BA28093.manifest has update.level 28
 https://ks-foundation.dyn.riotcdn.net/channels/public/releases/E2DA47560C99133A.manifest has update.level 29
 https://ks-foundation.dyn.riotcdn.net/channels/public/releases/37AE716C4C850D66.manifest has update.level 29
+https://ks-foundation.dyn.riotcdn.net/channels/public/releases/44893B5B779A7E65.manifest has update.level 34
 
 
 KeystoneFoundationLive:
