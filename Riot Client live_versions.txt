@@ -2,3 +2,4 @@ Version 1.9.0.2947676: https://ks-foundation.secure.dyn.riotcdn.net/channels/pub
 Version 1.10.0.2974887: https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/280B1F29BEF4774D.manifest
 Version 1.10.0.2986473: https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/66AD2E6BB9D3FAA7.manifest
 Version 1.10.0.2991189: https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/9E9C59B2F67E4F40.manifest
+Version 1.11.0.2994243: https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/2F3A3D828DBFF442.manifest
