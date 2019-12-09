@@ -12,6 +12,7 @@ https://ks-foundation.dyn.riotcdn.net/channels/public/releases/6CD73DF88BA28093.
 https://ks-foundation.dyn.riotcdn.net/channels/public/releases/E2DA47560C99133A.manifest has update.level 29
 https://ks-foundation.dyn.riotcdn.net/channels/public/releases/37AE716C4C850D66.manifest has update.level 29
 https://ks-foundation.dyn.riotcdn.net/channels/public/releases/44893B5B779A7E65.manifest has update.level 34
+https://ks-foundation.dyn.riotcdn.net/channels/public/releases/3A3FC6CDECD049F5.manifest has update.level 34
 
 
 KeystoneFoundationLive:
@@ -21,6 +22,9 @@ https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/280B1F29BE
 https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/66AD2E6BB9D3FAA7.manifest has update.level 61
 https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/9E9C59B2F67E4F40.manifest has update.level 62
 https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/2F3A3D828DBFF442.manifest has update.level 62
+https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/A2D5679D277C1023.manifest has update.level 62
+https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/2F36FBA131195846.manifest has update.level 62
+https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/37CDFB7319FD8BCF.manifest has update.level 62
 
 
 note: I don't really know whether this self_update.level value even matters for anything, but I thought better save everything in case it becomes relevant later
