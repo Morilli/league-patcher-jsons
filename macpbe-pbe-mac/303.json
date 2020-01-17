@@ -1,0 +1,14 @@
+{
+    "toggles": {
+        "db_foreign_key_checks": 50.0, 
+        "new_client_patcher": 100.0, 
+        "db_integrity_checks": 50.0, 
+        "db_cell_size_checks": 50.0, 
+        "new_game_patcher": 100.0
+    }, 
+    "timestamp": "2020-01-16T20:08:50.518000", 
+    "client_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/14906C86F0008EE6.manifest", 
+    "version": 303, 
+    "game_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/5D9A1A17C4357260.manifest", 
+    "client_app_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/8EF4E111FD44FEDB.manifest"
+}
