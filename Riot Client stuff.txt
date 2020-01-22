@@ -18,6 +18,7 @@ https://ks-foundation.dyn.riotcdn.net/channels/public/releases/C53DABFB0997246B.
 https://ks-foundation.dyn.riotcdn.net/channels/public/releases/E3AE991C9B074B04.manifest has update.level 35
 https://ks-foundation.dyn.riotcdn.net/channels/public/releases/590E9E98B545834E.manifest has update.level 35
 https://ks-foundation.dyn.riotcdn.net/channels/public/releases/1090528DCB741028.manifest has update.level 36
+https://ks-foundation.dyn.riotcdn.net/channels/public/releases/2AC1715299C995A6.manifest has update.level 37
 
 
 KeystoneFoundationLive:
@@ -34,7 +35,14 @@ https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/A024E827D1
 https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/E1EA7157FD7DC41C.manifest has update.level 63
 https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/87414C948B36D7A0.manifest has update.level 63
 https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/35A0CE891BF5ABC9.manifest has update.level 65
+https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/F2A8B573F604627E.manifest has update.level 66
 
 
 note: I don't really know whether this self_update.level value even matters for anything, but I thought better save everything in case it becomes relevant later
 (this value is saved in the ClientConfiguration.json file in "AppData\Local\Riot Games")
+
+what is this?
+"lol.game_client_settings.patcher.override_patch_url_eune": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/3C5A275E61E45E12.manifest",
+"lol.game_client_settings.patcher.override_patch_url_oc1": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/D71F6C5DCA49DE4D.manifest",
+"lol.game_client_settings.patcher.override_patch_url_pbe": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/07DA6DE0BBA9FC6A.manifest",
+
