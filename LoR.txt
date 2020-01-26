@@ -1,0 +1,4 @@
+https://bacon.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.exe
+
+https://bacon.secure.dyn.riotcdn.net/channels/public/releases/6589A9096A2B6000.manifest
+https://bacon.secure.dyn.riotcdn.net/channels/public/releases/5FC6BCE46E04AC3D.manifest
