@@ -1,0 +1,4 @@
+Some (apparently mobile TFT, judging from the contained files) manifests that can be found in https://clientconfig.rpg.riotgames.com/api/v1/config/public (ty to moonshadow)
+
+https://lol.secure.dyn.riotcdn.net/channels/public/releases/BE8117289435B937.manifest
+https://lol.secure.dyn.riotcdn.net/channels/public/releases/2CB047FFFADCBF57.manifest
