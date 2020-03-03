@@ -23,3 +23,5 @@ Version 4.0.0.3101358: https://ks-foundation.secure.dyn.riotcdn.net/channels/pub
 Version 4.0.0.3107590: https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/BDD7FD7CD4185C04.manifest
 Version 4.0.0.3107590: https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/4365B8DA00D138E3.manifest
 Version 4.0.0.3108723: https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/F736F6B79AA664B1.manifest
+Version 5.0.0.3111084: https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/8EBA0EE959B0DA27.manifest
+Version 5.0.0.3113283: https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/2CA1DFCD926F51B8.manifest
