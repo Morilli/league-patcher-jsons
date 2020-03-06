@@ -1,0 +1,10 @@
+{
+    "toggles": {
+        "new_client_patcher": 100.0, 
+        "new_game_patcher": 100.0
+    }, 
+    "timestamp": "2020-03-06T00:04:28.644000", 
+    "version": 91, 
+    "client_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/E37E28BF1DBB6524.manifest", 
+    "game_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/073F9B1E389F0A15.manifest"
+}
