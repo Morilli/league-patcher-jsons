@@ -30,8 +30,7 @@ https://ks-foundation.dyn.riotcdn.net/channels/public/releases/FA467A32822ED901.
 https://ks-foundation.dyn.riotcdn.net/channels/public/releases/198B2960977C6ED9.manifest has update.level 1
 https://ks-foundation.dyn.riotcdn.net/channels/public/releases/C77657BD9E370184.manifest has update.level 1
 https://ks-foundation.dyn.riotcdn.net/channels/public/releases/A74B08B829030194.manifest has update.level 1
-https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/8EBA0EE959B0DA27.manifest has update.level 0
-https://ks-foundation.secure.dyn.riotcdn.net/channels/public/releases/2CA1DFCD926F51B8.manifest has update.level 0
+https://ks-foundation.dyn.riotcdn.net/channels/public/releases/667983DA0DE1F7BD.manifest has update.level 1
 
 
 KeystoneFoundationLive:
