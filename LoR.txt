@@ -1,8 +1,12 @@
 https://bacon.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.exe
 
+PatcherData directory:
 https://bacon.secure.dyn.riotcdn.net/channels/public/releases/6589A9096A2B6000.manifest
 https://bacon.secure.dyn.riotcdn.net/channels/public/releases/5FC6BCE46E04AC3D.manifest
 https://bacon.secure.dyn.riotcdn.net/channels/public/releases/9BB0C71BBC7AFFFA.manifest
 https://bacon.secure.dyn.riotcdn.net/channels/public/releases/5FC6BCE46E04AC3D.manifest
 https://bacon.secure.dyn.riotcdn.net/channels/public/releases/750687F7580F12BC.manifest
 https://bacon.secure.dyn.riotcdn.net/channels/public/releases/5CBC57C5CDC2A50E.manifest
+
+Game directory:
+https://bacon.secure.dyn.riotcdn.net/channels/public/releases/EF6C3686F51069C3.manifest
