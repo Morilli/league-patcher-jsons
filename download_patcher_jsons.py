@@ -22,8 +22,8 @@ def download_jsons(entry):
         version = json.loads(json_file.content)["version"]
         os.makedirs(path, exist_ok=True)
         try:
-            with open(f"{path}/{version}.json", "x") as out_file:
-                out_file.write(json_file.content.decode("utf-8"))
+            with open(f"{path}/{version}.json", "xb") as out_file:
+                out_file.write(json_file.content)
         except FileExistsError:
             pass
 
