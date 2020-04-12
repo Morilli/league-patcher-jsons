@@ -5,7 +5,7 @@ from multiprocessing.pool import ThreadPool
 
 patchlines = ["KeystoneFoundationLiveWin", "KeystoneFoundationBetaWin"]
 
-urls = [(f"Riot Client/{patchline}", f"https://clientconfig.rpg.riotgames.com/api/v1/config/public?version=1&patchline={patchline}&app=Riot Client&namespace=keystone.self_update") for patchline in patchlines]
+urls = [(f"Riot Client/{patchline}", f"https://clientconfig.rpg.riotgames.com/api/v1/config/public?version=11.0.0.3165706&patchline={patchline}&app=Riot Client&namespace=keystone.self_update") for patchline in patchlines]
 
 def download_jsons(entry):
     path, url = entry
