@@ -9,8 +9,10 @@ https://bacon.secure.dyn.riotcdn.net/channels/public/releases/750687F7580F12BC.m
 https://bacon.secure.dyn.riotcdn.net/channels/public/releases/5CBC57C5CDC2A50E.manifest
 https://bacon.secure.dyn.riotcdn.net/channels/public/releases/131EAB408CAC9689.manifest
 https://bacon.secure.dyn.riotcdn.net/channels/public/releases/581B716567B7DF44.manifest
+https://bacon.secure.dyn.riotcdn.net/channels/public/releases/684BEC974FEA79D1.manifest
 
 Game directory:
 https://bacon.secure.dyn.riotcdn.net/channels/public/releases/EF6C3686F51069C3.manifest
 https://bacon.secure.dyn.riotcdn.net/channels/public/releases/05C29CE7976892F6.manifest
 https://bacon.secure.dyn.riotcdn.net/channels/public/releases/DC5CA74B4B18366C.manifest
+https://bacon.secure.dyn.riotcdn.net/channels/public/releases/1E208CAEDA084E39.manifest
