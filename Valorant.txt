@@ -1,2 +1,3 @@
 Version 18: https://valorant.secure.dyn.riotcdn.net/channels/public/releases/76652DE661983A6A.manifest
 Version 36: https://valorant.secure.dyn.riotcdn.net/channels/public/releases/198A6AB4AADCDCB3.manifest
+Version 61: https://valorant.secure.dyn.riotcdn.net/channels/public/releases/F0A473620075FC4B.manifest
