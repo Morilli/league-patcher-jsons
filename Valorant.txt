@@ -3,3 +3,4 @@ Version 36: https://valorant.secure.dyn.riotcdn.net/channels/public/releases/198
 Version 61: https://valorant.secure.dyn.riotcdn.net/channels/public/releases/F0A473620075FC4B.manifest
 Version 8 (0.49.0.0425239): https://valorant.secure.dyn.riotcdn.net/channels/public/releases/F0A473620075FC4B.manifest
 Version 15 (0.49.0.0426240): https://valorant.secure.dyn.riotcdn.net/channels/public/releases/8404D6441DBD89A5.manifest
+https://valorant.secure.dyn.riotcdn.net/channels/public/releases/DCBDCE95D8C1CF26.manifest
