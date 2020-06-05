@@ -1,0 +1,11 @@
+{
+    "toggles": {
+        "new_client_patcher": 100.0, 
+        "new_game_patcher": 100.0
+    }, 
+    "timestamp": "2020-06-04T18:48:13.076000", 
+    "client_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/0CDAAB2B6FFF2ABC.manifest", 
+    "version": 436, 
+    "game_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/4E83436510196E3F.manifest", 
+    "client_app_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/B9F5EE70A351FCB0.manifest"
+}
