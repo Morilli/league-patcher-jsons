@@ -1,0 +1,10 @@
+{
+    "version": 488,
+    "timestamp": "2020-10-14T00:15:50.107761",
+    "client_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/A28BDC5CA904FBCE.manifest",
+    "game_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/014DDC3971F741B2.manifest",
+    "toggles": {
+        "new_client_patcher": 100.0,
+        "new_game_patcher": 100.0
+    }
+}
