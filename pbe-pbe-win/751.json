@@ -1,0 +1,10 @@
+{
+    "version": 751,
+    "timestamp": "2021-12-17T19:42:55.613416",
+    "client_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/2B72E2DA9B388710.manifest",
+    "game_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/014DDC3971F741B2.manifest",
+    "toggles": {
+        "new_client_patcher": 100.0,
+        "new_game_patcher": 100.0
+    }
+}
