@@ -1,0 +1,10 @@
+{
+    "version": 877,
+    "timestamp": "2022-03-03T19:50:25.919114",
+    "client_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/FACC67CEA9C04119.manifest",
+    "game_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/014DDC3971F741B2.manifest",
+    "toggles": {
+        "new_client_patcher": 100.0,
+        "new_game_patcher": 100.0
+    }
+}
