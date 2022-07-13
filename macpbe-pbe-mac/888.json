@@ -1,0 +1,11 @@
+{
+    "version": 888,
+    "timestamp": "2022-07-12T19:03:13.353476",
+    "client_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/88DB5DC821C23E83.manifest",
+    "game_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/4E83436510196E3F.manifest",
+    "toggles": {
+        "new_client_patcher": 100.0,
+        "new_game_patcher": 100.0
+    },
+    "client_app_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/25B4EBF283126967.manifest"
+}
