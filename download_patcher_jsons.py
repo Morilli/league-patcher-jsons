@@ -5,7 +5,7 @@ from multiprocessing.pool import ThreadPool
 
 # regions = ['br', 'cn', 'eun', 'eune', 'euw', 'garena2', 'garena3', 'id', 'jp', 'kr', 'la', 'la1', 'la2', 'lan',
 #            'las', 'na', 'oc', 'oc1', 'oce', 'pbe', 'ph', 'ru', 'sg', 'tencent', 'th', 'tr', 'tw', 'vn'] # Uncomment for testing
-live_regions = ["br", "eune", "euw", "jp", "kr", "la1", "la2", "na", "oc1", "ru", "test", "tr"] # All currently available regions
+live_regions = ["br", "eune", "euw", "jp", "kr", "la1", "la2", "na", "oc1", "ph2", "ru", "sg2", "test", "th2", "tr", "tw2", "vn2"] # All currently available regions
 pbe_regions = ["pbe", "pbe_test"]
 
 urls = [(f"./live-{r}-win", f"https://lol.dyn.riotcdn.net/channels/public/live-{r}-win.json") for r in live_regions]
