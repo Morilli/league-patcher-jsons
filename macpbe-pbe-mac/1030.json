@@ -1,0 +1,11 @@
+{
+    "version": 1030,
+    "timestamp": "2023-02-24T18:00:16.378305",
+    "client_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/B26C1EC2DC0E48E3.manifest",
+    "game_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/4E83436510196E3F.manifest",
+    "toggles": {
+        "new_client_patcher": 100.0,
+        "new_game_patcher": 100.0
+    },
+    "client_app_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/755B82CBD237CD61.manifest"
+}
