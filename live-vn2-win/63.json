@@ -1,0 +1,10 @@
+{
+    "version": 63,
+    "timestamp": "2024-01-09T23:07:08.910882",
+    "client_patch_url": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/98CE183DD165EAE5.manifest",
+    "game_patch_url": "",
+    "toggles": {
+        "new_client_patcher": 100.0,
+        "new_game_patcher": 100.0
+    }
+}
